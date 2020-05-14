@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pageheader img{
+    margin-top:20px;
+    text-align: center; 
+    width: 100%; 
+    height: 400px;
+    background: #f1efef;
+}
+.articlecontent{
+    width: 100%;
+    border: 1px solid #f1efef;
+    /* 换行 */
+    word-break:break-all; 
+    word-wrap:break-word ;
+}
+.media-left img{
+    width:60px;
+    height:60px;
+    background: #f1efef;
+}
+.labelandbadge{
+    margin-top: 20px;
+    
+}
+.labeltext small{
+    color: #f1efef;   
+    text-align: center;
+}

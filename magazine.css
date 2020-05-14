@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #fcfafa;
+}
+.article-title{
+    height: 50px;
+}
+
+.thumbnail img{
+   width: 200px;
+   height: 200px;
+   background: #525050;
+   margin-top: 10px;
+}
+.fenye{
+    text-align: center;
+}
+.menuitem{
+    text-align: center;
+    padding: 10px;
+}
+.menuitem li{
+    padding: 10px;
+}
