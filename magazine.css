@@ -7,8 +7,12 @@ body{
 }
 .article-title{
     height: 50px;
+    margin-top: 50px;
 }
-
+.suolvetu{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
 .thumbnail img{
    width: 200px;
    height: 200px;
